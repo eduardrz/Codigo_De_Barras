@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <ManifestDocuments>
+    <ManifestDocument>obj\Debug\__library_projects__\ScanditSDK\library_project_imports\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Debug\__library_projects__\ScanditSDK\library_project_imports\aapt\AndroidManifest.xml</ManifestDocument>
+  </ManifestDocuments>
+  <NativeLibraries>
+    <NativeLibrary>obj\Debug\__library_projects__\ScanditSDK\library_project_imports\jni\arm64-v8a\libscanditsdk-android-4.15.0.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\ScanditSDK\library_project_imports\jni\armeabi\libscanditsdk-android-4.15.0.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\ScanditSDK\library_project_imports\jni\armeabi-v7a\libscanditsdk-android-4.15.0.so</NativeLibrary>
+    <NativeLibrary>obj\Debug\__library_projects__\ScanditSDK\library_project_imports\jni\x86\libscanditsdk-android-4.15.0.so</NativeLibrary>
+  </NativeLibraries>
+  <Jars>
+    <Jar>obj\Debug\__library_projects__\ScanditSDK\library_project_imports\bin\classes.jar</Jar>
+  </Jars>
+</Paths>
